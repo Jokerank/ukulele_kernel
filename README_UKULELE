@@ -1,0 +1,7 @@
+Toolchain: Linaro GCC 5.5-2017.10
+Create empty folder in the directory tools/tools otherwise there will be an error
+export ARCH=arm64
+export SUBARCH=arm64
+export CROSS_COMPILE="/your toolchain-"
+make
+That's all
