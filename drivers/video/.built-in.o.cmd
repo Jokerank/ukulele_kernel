@@ -1,1 +1,0 @@
-cmd_drivers/video/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/video/built-in.o drivers/video/logo/built-in.o drivers/video/backlight/built-in.o drivers/video/fbdev/built-in.o 

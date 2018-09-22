@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/sched/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/sched/built-in.o drivers/misc/mediatek/sched/rq_stats.o drivers/misc/mediatek/sched/sched_avg.o drivers/misc/mediatek/sched/mt_cpu_affinity/built-in.o drivers/misc/mediatek/sched/cputopo.o 

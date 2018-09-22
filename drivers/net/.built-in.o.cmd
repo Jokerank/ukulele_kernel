@@ -1,1 +1,0 @@
-cmd_drivers/net/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/net/built-in.o drivers/net/ifb.o drivers/net/Space.o drivers/net/loopback.o drivers/net/tun.o drivers/net/ppp/built-in.o drivers/net/slip/built-in.o drivers/net/wireless/built-in.o drivers/net/usb/built-in.o 

@@ -1,1 +1,0 @@
-cmd_drivers/spi/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/spi/built-in.o drivers/spi/spi.o drivers/spi/mediatek/built-in.o 

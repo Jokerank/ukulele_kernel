@@ -1,1 +1,0 @@
-cmd_drivers/gpu/drm/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/gpu/drm/built-in.o drivers/gpu/drm/i2c/built-in.o drivers/gpu/drm/panel/built-in.o drivers/gpu/drm/bridge/built-in.o 

@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/boot_reason/BOOT_REASON.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/boot_reason/BOOT_REASON.o drivers/misc/mediatek/boot_reason/mt_boot_reason.o 

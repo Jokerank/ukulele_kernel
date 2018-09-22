@@ -1,1 +1,0 @@
-cmd_drivers/usb/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/usb/built-in.o drivers/usb/core/built-in.o drivers/usb/host/built-in.o drivers/usb/storage/built-in.o drivers/usb/misc/built-in.o drivers/usb/phy/built-in.o drivers/usb/gadget/built-in.o drivers/usb/common/built-in.o 

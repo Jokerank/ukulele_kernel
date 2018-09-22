@@ -1,8 +1,0 @@
-sub_strobe.c:109:22:Sub_ledTimeOutCallback	16	static
-sub_strobe.c:148:12:FL_Sub_Disable	32	static
-sub_strobe.c:214:12:sub_strobe_ioctl	48	static
-sub_strobe.c:102:13:work_timeOutFunc	16	static
-sub_strobe.c:290:12:sub_strobe_release	48	static
-sub_strobe.c:117:6:Sub_timerInit	32	static
-sub_strobe.c:262:12:sub_strobe_open	48	static
-sub_strobe.c:315:9:subStrobeInit	0	static

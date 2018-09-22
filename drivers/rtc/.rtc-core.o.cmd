@@ -1,1 +1,0 @@
-cmd_drivers/rtc/rtc-core.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/rtc/rtc-core.o drivers/rtc/class.o drivers/rtc/interface.o drivers/rtc/rtc-dev.o drivers/rtc/rtc-proc.o drivers/rtc/rtc-sysfs.o 

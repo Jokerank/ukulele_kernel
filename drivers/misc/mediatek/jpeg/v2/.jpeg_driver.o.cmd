@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/jpeg/v2/jpeg_driver.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/jpeg/v2/jpeg_driver.o drivers/misc/mediatek/jpeg/v2/jpeg_cmdq.o drivers/misc/mediatek/jpeg/v2/jpeg_drv_enc.o drivers/misc/mediatek/jpeg/v2/jpeg_drv_dec.o drivers/misc/mediatek/jpeg/v2/jpeg_drv.o 
