@@ -1,0 +1,3 @@
+compat_ioctl.c:1620:19:init_sys32_ioctl_cmp	0	static
+compat_ioctl.c:1632:19:init_sys32_ioctl	16	static
+compat_ioctl.c:1543:1:compat_SyS_ioctl	176	static

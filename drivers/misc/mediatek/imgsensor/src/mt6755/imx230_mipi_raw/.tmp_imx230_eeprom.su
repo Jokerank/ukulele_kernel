@@ -1,0 +1,4 @@
+imx230_eeprom.c:48:13:selective_read_eeprom	48	static
+imx230_eeprom.c:107:6:read_eeprom_version	32	static
+imx230_eeprom.c:126:6:read_imx230_SPC	64	static
+imx230_eeprom.c:149:6:read_imx230_DCC	64	static

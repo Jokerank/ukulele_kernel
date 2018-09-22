@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/btif/common/btif.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/btif/common/btif.o drivers/misc/mediatek/btif/common/mtk_btif.o drivers/misc/mediatek/btif/common/mtk_btif_exp.o drivers/misc/mediatek/btif/common/btif_dma_plat.o drivers/misc/mediatek/btif/common/btif_plat.o 

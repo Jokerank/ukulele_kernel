@@ -1,0 +1,1 @@
+cmd_drivers/clocksource/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/clocksource/built-in.o drivers/clocksource/clksrc-of.o drivers/clocksource/mmio.o drivers/clocksource/mtk_timer.o drivers/clocksource/arm_arch_timer.o drivers/clocksource/dummy_timer.o 

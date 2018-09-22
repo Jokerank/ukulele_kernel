@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/eccci/mt6755/ccci.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/eccci/mt6755/ccci.o drivers/misc/mediatek/eccci/mt6755/ccci_platform.o drivers/misc/mediatek/eccci/mt6755/cldma_platform.o drivers/misc/mediatek/eccci/mt6755/ccif_c2k_platform.o 

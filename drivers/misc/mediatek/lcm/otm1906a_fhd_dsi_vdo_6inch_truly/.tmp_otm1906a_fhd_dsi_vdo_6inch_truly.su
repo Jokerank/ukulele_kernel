@@ -1,0 +1,15 @@
+otm1906a_fhd_dsi_vdo_6inch_truly.c:738:13:lcm_resume_power_truly	0	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:791:13:lcm_update_truly	112	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:827:21:lcm_compare_id_truly	0	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:924:14:lcm_ata_check_truly	80	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:894:21:lcm_esd_check_truly	64	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:601:13:lcm_get_params_truly	32	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:593:13:lcm_set_util_funcs_truly	16	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:995:7:lcm_switch_mode_truly	0	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:554:13:push_table_truly.constprop	48	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:746:13:lcm_init_truly	32	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:780:13:lcm_resume_truly	32	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:979:13:lcm_setbacklight_truly	32	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:767:13:lcm_suspend_truly	32	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:730:13:lcm_suspend_power_truly	0	static
+otm1906a_fhd_dsi_vdo_6inch_truly.c:725:13:lcm_init_power_truly	0	static

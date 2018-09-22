@@ -1,0 +1,15 @@
+r63422_fhd_dsi_cmd_truly.c:493:13:lcm_resume_power_truly_r63422	0	static
+r63422_fhd_dsi_cmd_truly.c:555:13:lcm_update_truly_r63422	112	static
+r63422_fhd_dsi_cmd_truly.c:592:21:lcm_compare_id_truly_r63422	0	static
+r63422_fhd_dsi_cmd_truly.c:690:14:lcm_ata_check_truly_r63422	80	static
+r63422_fhd_dsi_cmd_truly.c:660:21:lcm_esd_check_truly_r63422	64	static
+r63422_fhd_dsi_cmd_truly.c:389:13:lcm_get_params_truly_r63422	32	static
+r63422_fhd_dsi_cmd_truly.c:381:13:lcm_set_util_funcs_truly_r63422	16	static
+r63422_fhd_dsi_cmd_truly.c:761:7:lcm_switch_mode_truly_r63422	0	static
+r63422_fhd_dsi_cmd_truly.c:342:13:push_table_truly_r63422.constprop	48	static
+r63422_fhd_dsi_cmd_truly.c:501:13:lcm_init_truly_r63422	32	static
+r63422_fhd_dsi_cmd_truly.c:545:13:lcm_resume_truly_r63422	16	static
+r63422_fhd_dsi_cmd_truly.c:745:13:lcm_setbacklight_truly_r63422	32	static
+r63422_fhd_dsi_cmd_truly.c:533:13:lcm_suspend_truly_r63422	32	static
+r63422_fhd_dsi_cmd_truly.c:485:13:lcm_suspend_power_truly_r63422	0	static
+r63422_fhd_dsi_cmd_truly.c:480:13:lcm_init_power_truly_r63422	0	static

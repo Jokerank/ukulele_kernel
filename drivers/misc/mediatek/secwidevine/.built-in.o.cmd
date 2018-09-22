@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/secwidevine/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/secwidevine/built-in.o drivers/misc/mediatek/secwidevine/classicdrm/built-in.o drivers/misc/mediatek/secwidevine/modulardrm/built-in.o 

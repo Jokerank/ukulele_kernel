@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cam_cal/src/common/cat24c16/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/cam_cal/src/common/cat24c16/built-in.o drivers/misc/mediatek/cam_cal/src/common/cat24c16/cat24c16.o 

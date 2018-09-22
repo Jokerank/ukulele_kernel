@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/watchdog/built-in.o drivers/watchdog/mediatek/built-in.o 

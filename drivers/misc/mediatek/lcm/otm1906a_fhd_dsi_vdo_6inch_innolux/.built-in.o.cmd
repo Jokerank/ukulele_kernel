@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lcm/otm1906a_fhd_dsi_vdo_6inch_innolux/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/lcm/otm1906a_fhd_dsi_vdo_6inch_innolux/built-in.o drivers/misc/mediatek/lcm/otm1906a_fhd_dsi_vdo_6inch_innolux/otm1906a_fhd_dsi_vdo_6inch_innolux.o 

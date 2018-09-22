@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/xhci/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/xhci/built-in.o drivers/misc/mediatek/xhci/xhci-mtk-power.o drivers/misc/mediatek/xhci/xhci-mtk-driver.o drivers/misc/mediatek/xhci/xhci-mtk-attrs.o 
