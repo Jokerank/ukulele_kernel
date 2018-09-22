@@ -1,4 +1,0 @@
-kernel/drivers/misc/mediatek/power/mt6755/battery_meter_hal.ko
-kernel/drivers/misc/mediatek/power/mt6755/mtk_bif_intf.ko
-kernel/drivers/misc/mediatek/power/mt6755/bq25890.ko
-kernel/drivers/misc/mediatek/power/mt6755/charging_hw_bq25890.ko
