@@ -1,3 +1,0 @@
-netport.c:237:19:sel_netport_init	0	static
-netport.c:197:5:sel_netport_sid	112	static
-netport.c:220:6:sel_netport_flush	64	static

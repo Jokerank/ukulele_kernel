@@ -1,6 +1,0 @@
-tiload.c:135:12:tiload_release	0	static
-tiload.c:150:16:tiload_read	80	static
-tiload.c:328:13:tiload_ioctl	64	static
-tiload.c:246:16:tiload_write	48	static
-tiload.c:116:12:tiload_open	32	static
-tiload.c:385:5:tiload_driver_init	64	static

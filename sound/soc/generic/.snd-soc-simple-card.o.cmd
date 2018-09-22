@@ -1,1 +1,0 @@
-cmd_sound/soc/generic/snd-soc-simple-card.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o sound/soc/generic/snd-soc-simple-card.o sound/soc/generic/simple-card.o 

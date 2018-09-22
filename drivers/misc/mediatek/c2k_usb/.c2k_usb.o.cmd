@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/c2k_usb/c2k_usb.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/c2k_usb/c2k_usb.o drivers/misc/mediatek/c2k_usb/f_rawbulk.o drivers/misc/mediatek/c2k_usb/rawbulk.o drivers/misc/mediatek/c2k_usb/rawbulk_transfer.o 

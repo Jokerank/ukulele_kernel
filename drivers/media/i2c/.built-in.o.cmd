@@ -1,1 +1,0 @@
-cmd_drivers/media/i2c/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/media/i2c/built-in.o drivers/media/i2c/soc_camera/built-in.o 

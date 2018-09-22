@@ -1,1 +1,0 @@
-cmd_arch/arm64/kernel/vdso/vdso-offsets.h := 	/home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-nm arch/arm64/kernel/vdso/vdso.so.dbg | ./arch/arm64/kernel/vdso/gen_vdso_offsets.sh | LC_ALL=C sort > arch/arm64/kernel/vdso/vdso-offsets.h && cp arch/arm64/kernel/vdso/vdso-offsets.h include/generated/

@@ -1,3 +1,0 @@
-hid-quirks.c:354:5:usbhid_lookup_quirk	48	static
-hid-quirks.c:278:5:usbhid_quirks_init	96	static
-hid-quirks.c:309:6:usbhid_quirks_exit	64	static

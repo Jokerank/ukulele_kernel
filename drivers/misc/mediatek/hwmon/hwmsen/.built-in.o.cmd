@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/hwmon/hwmsen/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/hwmon/hwmsen/built-in.o drivers/misc/mediatek/hwmon/hwmsen/hwmsen_helper.o drivers/misc/mediatek/hwmon/hwmsen/hwmsen_dev.o 

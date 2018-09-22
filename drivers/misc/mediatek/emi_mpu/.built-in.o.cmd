@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/emi_mpu/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/emi_mpu/built-in.o drivers/misc/mediatek/emi_mpu/emi_reg_rw.o drivers/misc/mediatek/emi_mpu/mt6755/built-in.o 

@@ -1,1 +1,0 @@
-cmd_kernel/locking/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o kernel/locking/built-in.o kernel/locking/mutex.o kernel/locking/semaphore.o kernel/locking/rwsem.o kernel/locking/mcs_spinlock.o kernel/locking/spinlock.o kernel/locking/lglock.o kernel/locking/rtmutex.o kernel/locking/rwsem-xadd.o 

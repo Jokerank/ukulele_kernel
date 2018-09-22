@@ -1,1 +1,0 @@
-cmd_drivers/mmc/host/mediatek/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/mmc/host/mediatek/built-in.o drivers/mmc/host/mediatek/mt6755/built-in.o drivers/mmc/host/mediatek/emmc_rpmb.o 
