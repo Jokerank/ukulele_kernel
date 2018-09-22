@@ -1,0 +1,1 @@
+cmd_net/netfilter/nfnetlink_queue.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o net/netfilter/nfnetlink_queue.o net/netfilter/nfnetlink_queue_core.o 

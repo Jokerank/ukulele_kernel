@@ -1,0 +1,1 @@
+cmd_net/wireless/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o net/wireless/built-in.o net/wireless/cfg80211.o net/wireless/wext-core.o net/wireless/wext-proc.o net/wireless/wext-spy.o net/wireless/wext-priv.o 

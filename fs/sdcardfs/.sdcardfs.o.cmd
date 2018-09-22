@@ -1,0 +1,1 @@
+cmd_fs/sdcardfs/sdcardfs.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o fs/sdcardfs/sdcardfs.o fs/sdcardfs/dentry.o fs/sdcardfs/file.o fs/sdcardfs/inode.o fs/sdcardfs/main.o fs/sdcardfs/super.o fs/sdcardfs/lookup.o fs/sdcardfs/mmap.o fs/sdcardfs/packagelist.o fs/sdcardfs/derived_perm.o fs/sdcardfs/worker.o 

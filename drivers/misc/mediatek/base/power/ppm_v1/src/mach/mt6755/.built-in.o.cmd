@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/base/power/ppm_v1/src/mach/mt6755/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/base/power/ppm_v1/src/mach/mt6755/built-in.o drivers/misc/mediatek/base/power/ppm_v1/src/mach/mt6755/mt_ppm_power_state.o 

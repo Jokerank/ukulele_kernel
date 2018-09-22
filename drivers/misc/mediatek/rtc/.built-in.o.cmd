@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/rtc/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/rtc/built-in.o drivers/misc/mediatek/rtc/mtk_rtc_common.o drivers/misc/mediatek/rtc/mtk_rtc_hal_common.o drivers/misc/mediatek/rtc/mtk_rtc_tickstamp.o drivers/misc/mediatek/rtc/mt6351/built-in.o 

@@ -1,0 +1,1 @@
+cmd_arch/arm64/kernel/vdso/vdso.so := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-objcopy -S  arch/arm64/kernel/vdso/vdso.so.dbg arch/arm64/kernel/vdso/vdso.so

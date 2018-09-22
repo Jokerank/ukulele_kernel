@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mtprof/mtprof.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/mtprof/mtprof.o drivers/misc/mediatek/mtprof/prof_ctl.o drivers/misc/mediatek/mtprof/prof_main.o drivers/misc/mediatek/mtprof/common.o 

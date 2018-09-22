@@ -1,0 +1,1 @@
+cmd_crypto/crypto.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o crypto/crypto.o crypto/api.o crypto/cipher.o crypto/compress.o crypto/memneq.o 

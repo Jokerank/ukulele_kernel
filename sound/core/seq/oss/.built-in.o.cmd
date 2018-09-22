@@ -1,0 +1,1 @@
+cmd_sound/core/seq/oss/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o sound/core/seq/oss/built-in.o sound/core/seq/oss/snd-seq-oss.o 

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/usb/gadget/built-in.o drivers/usb/gadget/libcomposite.o drivers/usb/gadget/udc/built-in.o drivers/usb/gadget/function/built-in.o drivers/usb/gadget/legacy/built-in.o drivers/usb/gadget/g_android.o 

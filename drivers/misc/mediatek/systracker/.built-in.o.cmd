@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/systracker/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/systracker/built-in.o drivers/misc/mediatek/systracker/systracker_interface_v2.o drivers/misc/mediatek/systracker/mt6755/built-in.o drivers/misc/mediatek/systracker/backtrace_64bit.o 

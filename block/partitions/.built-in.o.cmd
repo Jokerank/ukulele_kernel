@@ -1,0 +1,1 @@
+cmd_block/partitions/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o block/partitions/built-in.o block/partitions/check.o block/partitions/msdos.o block/partitions/efi.o 

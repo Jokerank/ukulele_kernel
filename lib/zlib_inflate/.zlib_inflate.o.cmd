@@ -1,0 +1,1 @@
+cmd_lib/zlib_inflate/zlib_inflate.o := /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o lib/zlib_inflate/zlib_inflate.o lib/zlib_inflate/inffast.o lib/zlib_inflate/inflate.o lib/zlib_inflate/infutil.o lib/zlib_inflate/inftrees.o lib/zlib_inflate/inflate_syms.o 

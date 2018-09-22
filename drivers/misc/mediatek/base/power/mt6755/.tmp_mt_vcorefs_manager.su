@@ -1,0 +1,14 @@
+mt_vcorefs_manager.c:80:6:vcorefs_register_req_notify	0	static
+mt_vcorefs_manager.c:561:16:opp_num_show	32	static
+mt_vcorefs_manager.c:400:16:vcore_debug_show	80	static
+mt_vcorefs_manager.c:542:16:opp_table_store	80	static
+mt_vcorefs_manager.c:533:16:opp_table_show	32	static
+mt_vcorefs_manager.c:306:5:vcorefs_autok_set_vcore	64	static
+mt_vcorefs_manager.c:90:5:is_vcorefs_can_work	32	static
+mt_vcorefs_manager.c:107:5:vcorefs_get_curr_opp	32	static
+mt_vcorefs_manager.c:202:5:vcorefs_request_dvfs_opp	160	static
+mt_vcorefs_manager.c:435:16:vcore_debug_store	112	static
+mt_vcorefs_manager.c:346:6:vcorefs_drv_init	64	static
+mt_vcorefs_manager.c:376:6:vcorefs_set_feature_en	0	static
+mt_vcorefs_manager.c:381:6:vcorefs_set_kr_req_mask	0	static
+mt_vcorefs_manager.c:587:5:init_vcorefs_sysfs	16	static

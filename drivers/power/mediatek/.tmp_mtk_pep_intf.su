@@ -1,0 +1,16 @@
+mtk_pep_intf.c:54:12:pep_enable_vbus_ovp	64	static
+mtk_pep_intf.c:92:12:pep_set_mivr	48	static
+mtk_pep_intf.c:198:12:pep_increase_ta_vchr	112	static
+mtk_pep_intf.c:307:5:mtk_pep_init	32	static
+mtk_pep_intf.c:316:5:mtk_pep_reset_ta_vchr	80	static
+mtk_pep_intf.c:104:12:pep_leave	48	static
+mtk_pep_intf.c:526:5:mtk_pep_set_charging_current	48	static
+mtk_pep_intf.c:553:6:mtk_pep_set_to_check_chr_type	48	static
+mtk_pep_intf.c:566:6:mtk_pep_set_is_enable	48	static
+mtk_pep_intf.c:578:6:mtk_pep_set_is_cable_out_occur	48	static
+mtk_pep_intf.c:284:12:pep_plugout_reset	32	static
+mtk_pep_intf.c:362:5:mtk_pep_check_charger	64	static
+mtk_pep_intf.c:429:5:mtk_pep_start_algorithm	80	static
+mtk_pep_intf.c:588:6:mtk_pep_get_to_check_chr_type	0	static
+mtk_pep_intf.c:593:6:mtk_pep_get_is_connect	0	static
+mtk_pep_intf.c:606:6:mtk_pep_get_is_enable	0	static

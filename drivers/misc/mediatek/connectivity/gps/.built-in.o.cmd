@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/connectivity/gps/built-in.o :=  /home/jokerank/kernel/tools/gcc-linaro-5.5.0_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld -EL    -r -o drivers/misc/mediatek/connectivity/gps/built-in.o drivers/misc/mediatek/connectivity/gps/stp_chrdev_gps.o drivers/misc/mediatek/connectivity/gps/gps.o 
