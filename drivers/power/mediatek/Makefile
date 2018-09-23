@@ -26,6 +26,8 @@ else
 obj-$(CONFIG_MTK_SMART_BATTERY) += battery_meter.o battery_common.o
 endif
 
+obj-$(CONFIG_FORCE_FAST_CHARGE) += fast_charging.o
+
 #// <<< 2016/12/09-youchihwang, Battery, Increase pc usb port input current limit for SONY ESTA test depends on VARIANT.
 ifeq ($(strip $(TARGET_BUILD_VARIANT)),user)
         subdir-ccflags-y += -DUSER_BUILD

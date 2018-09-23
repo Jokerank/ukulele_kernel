@@ -12901,8 +12901,6 @@ main:
 	.string	"nr_events"
 .LASF1010:
 	.string	"detach"
-.LASF1133:
-	.string	"/home/jokerank/kernel/kernel-3.18"
 .LASF896:
 	.string	"store"
 .LASF215:
@@ -14242,6 +14240,8 @@ main:
 	.string	"pm_domain"
 .LASF612:
 	.string	"last_used_at"
+.LASF1133:
+	.string	"/home/jokerank/kernel/kernel-3.18stockfastchargingclean"
 .LASF580:
 	.string	"task_io_accounting"
 .LASF390:

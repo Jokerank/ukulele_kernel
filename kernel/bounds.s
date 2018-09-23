@@ -627,8 +627,6 @@ foo:
 	.string	"PG_swapbacked"
 .LASF41:
 	.string	"pageflags"
-.LASF55:
-	.string	"/home/jokerank/kernel/kernel-3.18"
 .LASF4:
 	.string	"unsigned int"
 .LASF14:
@@ -647,6 +645,8 @@ foo:
 	.string	"phys_addr_t"
 .LASF8:
 	.string	"sizetype"
+.LASF55:
+	.string	"/home/jokerank/kernel/kernel-3.18stockfastchargingclean"
 .LASF25:
 	.string	"PG_private_2"
 .LASF5:
