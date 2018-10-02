@@ -1,0 +1,5 @@
+bootapsbp.c:48:12:apsbp_open	16	static
+bootapsbp.c:53:16:apsbp_write	96	static
+bootapsbp.c:85:19:init_apsbp_bootup	16	static
+bootapsbp.c:41:12:apsbp_show	16	static
+bootapsbp.c:25:14:mdbootreadsbp	32	static

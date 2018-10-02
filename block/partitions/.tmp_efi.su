@@ -1,0 +1,5 @@
+efi.c:113:1:force_gpt_fn	0	static
+efi.c:490:1:compare_gpts	96	static
+efi.c:251:15:read_lba.isra.0	96	static
+efi.c:351:12:is_gpt_valid	80	static
+efi.c:685:5:efi_partition	240	static

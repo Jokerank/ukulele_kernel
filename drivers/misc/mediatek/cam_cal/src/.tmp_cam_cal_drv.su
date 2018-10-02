@@ -1,0 +1,10 @@
+cam_cal_drv.c:373:12:cam_cal_compat_get_info	0	static
+cam_cal_drv.c:651:12:cam_cal_drv_release	32	static
+cam_cal_drv.c:771:20:cam_cal_drv_exit	32	static
+cam_cal_drv.c:741:19:cam_cal_drv_init	80	static
+cam_cal_drv.c:396:13:cam_cal_drv_compat_ioctl	48	static
+cam_cal_drv.c:154:12:cam_cal_get_i2c_client	96	static
+cam_cal_drv.c:291:35:cam_cal_get_cmd_info_ex	144	static
+cam_cal_drv.c:126:12:cam_cal_set_i2c_bus	32	static
+cam_cal_drv.c:467:13:cam_cal_drv_ioctl	64	static
+cam_cal_drv.c:634:12:cam_cal_drv_open	48	static

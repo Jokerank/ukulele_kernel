@@ -1,0 +1,7 @@
+frandom.c:90:6:erandom_get_random_bytes	48	static
+frandom.c:141:13:init_rand_state	32	static
+frandom.c:214:12:frandom_release	32	static
+frandom.c:287:13:frandom_cleanup_module	32	static
+frandom.c:225:16:frandom_read	96	static
+frandom.c:179:12:frandom_open	48	static
+frandom.c:299:12:frandom_init_module	64	static
